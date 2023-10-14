@@ -1,0 +1,4 @@
+В символьной строке удалить все слова, состоящие более чем из N букв.
+
+Same as in prev lab i used symbolic processing in cycle
+mark: 10/10.
